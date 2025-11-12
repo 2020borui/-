@@ -33,6 +33,14 @@
 - 通过语义网络与主题分析，揭示不同地区研学产品的口碑差异；  
 - 提供可复现的分析流程，支持后续科研或政策研究使用。
 
+在可视化过程中，由于图表中包含中文文本，需要在绘图代码中指定中文字体路径，例如：
+```python
+font_path = "C:/Windows/Fonts/simhei.ttf"
+plt.rcParams['font.sans-serif'] = ['SimHei']   # 设置默认字体为黑体
+plt.rcParams['axes.unicode_minus'] = False     # 解决负号显示问题
+```
+此外，部分地图绘制（如使用 OpenStreetMap 作为底图）可能需要科学上网环境，以确保地图瓦片能够正常加载。
+
 ---
 
 ## 环境配置
