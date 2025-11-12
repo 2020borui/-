@@ -126,7 +126,9 @@ pip install wordcloud networkx community snownlp seaborn libpysal
 | `data/省份景区概况.csv` | 各省份研学产品的平均分、好评率、评论数与 POI 数量统计 |
 
 数据来源自在线旅游平台与研学相关公开数据接口，仅用于学术分析与模型验证。
-部分由于文件大小无法上传的文件，我已上传至google drive 中 https://drive.google.com/drive/folders/1Cxbxyh7ar2LV_Z5rUZFB15cQMNRkKZqT?usp=drive_link
+> 📁 **部分由于文件大小限制无法上传的文件**  
+> 已存储在 [Google Drive 文件夹](https://drive.google.com/drive/folders/1Cxbxyh7ar2LV_Z5rUZFB15cQMNRkKZqT?usp=drive_link) 中。
+
 
 ---
 
