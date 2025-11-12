@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "高中聚类的核心",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "cluster": 0, "城市": "上海", "count": 7 }, "geometry": { "type": "Point", "coordinates": [ 13529443.155185570940375, 3661389.380586673505604 ] } },
+{ "type": "Feature", "properties": { "cluster": 1, "城市": "北京", "count": 8 }, "geometry": { "type": "Point", "coordinates": [ 12953860.416112206876278, 4854624.09955872502178 ] } },
+{ "type": "Feature", "properties": { "cluster": 2, "城市": "成都", "count": 9 }, "geometry": { "type": "Point", "coordinates": [ 11580123.995068844407797, 3589014.506224669516087 ] } },
+{ "type": "Feature", "properties": { "cluster": 3, "城市": "南京", "count": 6 }, "geometry": { "type": "Point", "coordinates": [ 13227420.698689794167876, 3772236.628888784907758 ] } },
+{ "type": "Feature", "properties": { "cluster": 4, "城市": "苏州", "count": 3 }, "geometry": { "type": "Point", "coordinates": [ 13429187.878702642396092, 3672689.386859987396747 ] } },
+{ "type": "Feature", "properties": { "cluster": 5, "城市": "辉县", "count": 3 }, "geometry": { "type": "Point", "coordinates": [ 12630163.403636112809181, 4227874.969786868430674 ] } },
+{ "type": "Feature", "properties": { "cluster": 6, "城市": "武汉", "count": 4 }, "geometry": { "type": "Point", "coordinates": [ 12716767.150121493265033, 3573733.523416192270815 ] } },
+{ "type": "Feature", "properties": { "cluster": 7, "城市": "厦门", "count": 4 }, "geometry": { "type": "Point", "coordinates": [ 13147203.819234129041433, 2813640.178357627242804 ] } },
+{ "type": "Feature", "properties": { "cluster": 8, "城市": "沈阳", "count": 4 }, "geometry": { "type": "Point", "coordinates": [ 13742350.279924616217613, 5130466.073919801041484 ] } },
+{ "type": "Feature", "properties": { "cluster": 9, "城市": "西安", "count": 11 }, "geometry": { "type": "Point", "coordinates": [ 12127362.946981294080615, 4055386.71484893001616 ] } }
+]
+}

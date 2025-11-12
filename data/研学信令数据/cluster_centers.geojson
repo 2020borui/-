@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "cluster_centers",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "cluster": 0, "count": 262 }, "geometry": { "type": "Point", "coordinates": [ 13529443.155185570940375, 3661389.380586673505604 ] } },
+{ "type": "Feature", "properties": { "cluster": 1, "count": 122 }, "geometry": { "type": "Point", "coordinates": [ 12953860.416112206876278, 4854624.09955872502178 ] } },
+{ "type": "Feature", "properties": { "cluster": 2, "count": 144 }, "geometry": { "type": "Point", "coordinates": [ 11580123.995068844407797, 3589014.506224669516087 ] } },
+{ "type": "Feature", "properties": { "cluster": 3, "count": 30 }, "geometry": { "type": "Point", "coordinates": [ 13399095.138717174530029, 4310382.720786856487393 ] } },
+{ "type": "Feature", "properties": { "cluster": 4, "count": 182 }, "geometry": { "type": "Point", "coordinates": [ 12618845.921733524650335, 2637100.915569806937128 ] } },
+{ "type": "Feature", "properties": { "cluster": 5, "count": 50 }, "geometry": { "type": "Point", "coordinates": [ 13224124.841145176440477, 3769181.385090174619108 ] } },
+{ "type": "Feature", "properties": { "cluster": 6, "count": 44 }, "geometry": { "type": "Point", "coordinates": [ 12720731.23685041256249, 3589550.204960360191762 ] } },
+{ "type": "Feature", "properties": { "cluster": 7, "count": 42 }, "geometry": { "type": "Point", "coordinates": [ 13147203.819234129041433, 2813640.178357627242804 ] } },
+{ "type": "Feature", "properties": { "cluster": 8, "count": 44 }, "geometry": { "type": "Point", "coordinates": [ 12128302.93086669780314, 4059160.050465941894799 ] } }
+]
+}

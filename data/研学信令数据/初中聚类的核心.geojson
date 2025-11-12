@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "初中聚类的核心",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "cluster": 0, "城市": "上海", "count": 6 }, "geometry": { "type": "Point", "coordinates": [ 13529443.155185570940375, 3661389.380586673505604 ] } },
+{ "type": "Feature", "properties": { "cluster": 1, "城市": "北京", "count": 20 }, "geometry": { "type": "Point", "coordinates": [ 12953860.416112206876278, 4854624.09955872502178 ] } },
+{ "type": "Feature", "properties": { "cluster": 2, "城市": "成都", "count": 5 }, "geometry": { "type": "Point", "coordinates": [ 11582290.650829115882516, 3587211.932350774761289 ] } },
+{ "type": "Feature", "properties": { "cluster": 3, "城市": "太原", "count": 3 }, "geometry": { "type": "Point", "coordinates": [ 12516189.081160454079509, 4538226.444974676705897 ] } },
+{ "type": "Feature", "properties": { "cluster": 4, "城市": "广州", "count": 8 }, "geometry": { "type": "Point", "coordinates": [ 12618845.921733524650335, 2637100.915569806937128 ] } },
+{ "type": "Feature", "properties": { "cluster": 5, "城市": "南京", "count": 7 }, "geometry": { "type": "Point", "coordinates": [ 13224124.841145176440477, 3769181.385090174619108 ] } },
+{ "type": "Feature", "properties": { "cluster": 6, "城市": "新密", "count": 3 }, "geometry": { "type": "Point", "coordinates": [ 12639707.029170423746109, 4094474.686669272370636 ] } },
+{ "type": "Feature", "properties": { "cluster": 7, "城市": "宁波", "count": 3 }, "geometry": { "type": "Point", "coordinates": [ 13529305.903285881504416, 3487315.948823521379381 ] } },
+{ "type": "Feature", "properties": { "cluster": 8, "城市": "厦门", "count": 4 }, "geometry": { "type": "Point", "coordinates": [ 13147203.819234129041433, 2813640.178357627242804 ] } },
+{ "type": "Feature", "properties": { "cluster": 9, "城市": "沈阳", "count": 3 }, "geometry": { "type": "Point", "coordinates": [ 13742883.90342447720468, 5112520.091828431934118 ] } },
+{ "type": "Feature", "properties": { "cluster": 10, "城市": "西安", "count": 17 }, "geometry": { "type": "Point", "coordinates": [ 12139199.867246212437749, 4065674.288643872831017 ] } }
+]
+}

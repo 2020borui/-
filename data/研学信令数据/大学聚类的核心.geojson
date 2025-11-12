@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "大学聚类的核心",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "cluster": 0, "城市": "上海", "count": 60 }, "geometry": { "type": "Point", "coordinates": [ 13522095.205991880968213, 3662684.614889027550817 ] } },
+{ "type": "Feature", "properties": { "cluster": 1, "城市": "北京", "count": 39 }, "geometry": { "type": "Point", "coordinates": [ 12953860.416112206876278, 4854624.09955872502178 ] } },
+{ "type": "Feature", "properties": { "cluster": 2, "城市": "成都", "count": 57 }, "geometry": { "type": "Point", "coordinates": [ 11584033.806925745680928, 3588635.66103286948055 ] } },
+{ "type": "Feature", "properties": { "cluster": 3, "城市": "青岛", "count": 10 }, "geometry": { "type": "Point", "coordinates": [ 13394367.368949381634593, 4309061.824271120131016 ] } },
+{ "type": "Feature", "properties": { "cluster": 4, "城市": "太原", "count": 10 }, "geometry": { "type": "Point", "coordinates": [ 12519076.13989720121026, 4543585.765184169635177 ] } },
+{ "type": "Feature", "properties": { "cluster": 5, "城市": "广州", "count": 27 }, "geometry": { "type": "Point", "coordinates": [ 12618845.921733524650335, 2637100.915569806937128 ] } },
+{ "type": "Feature", "properties": { "cluster": 6, "城市": "南京", "count": 29 }, "geometry": { "type": "Point", "coordinates": [ 13221897.353073371574283, 3770834.978831949178129 ] } },
+{ "type": "Feature", "properties": { "cluster": 7, "城市": "苏州", "count": 25 }, "geometry": { "type": "Point", "coordinates": [ 13429187.878702642396092, 3672689.386859987396747 ] } },
+{ "type": "Feature", "properties": { "cluster": 8, "城市": "杭州", "count": 21 }, "geometry": { "type": "Point", "coordinates": [ 13376628.080162452533841, 3534718.110211267601699 ] } },
+{ "type": "Feature", "properties": { "cluster": 9, "城市": "武汉", "count": 67 }, "geometry": { "type": "Point", "coordinates": [ 12730579.313387246802449, 3573003.878065257333219 ] } },
+{ "type": "Feature", "properties": { "cluster": 10, "城市": "厦门", "count": 78 }, "geometry": { "type": "Point", "coordinates": [ 13146504.047989143058658, 2806948.824681710451841 ] } },
+{ "type": "Feature", "properties": { "cluster": 11, "城市": "沈阳", "count": 22 }, "geometry": { "type": "Point", "coordinates": [ 13742580.014158621430397, 5129822.788904650136828 ] } },
+{ "type": "Feature", "properties": { "cluster": 12, "城市": "西安", "count": 29 }, "geometry": { "type": "Point", "coordinates": [ 12128302.93086669780314, 4059160.050465941894799 ] } }
+]
+}
